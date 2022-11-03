@@ -1,0 +1,36 @@
+header{
+	margin: 0 auto;
+	width: 100%;
+	height: 80px;
+
+}
+nav {
+	margin: left;
+	width: 200%;
+	height: 30px;
+	background-color: chokolate;
+}
+
+
+aside {
+	width: 30%;
+	height: 80px;
+	background-color: lightpink;
+	float: right;
+}
+
+main{
+	width: 70%;
+	height: 80px;
+	background-color: chartreuse;
+	float: left;
+
+}
+
+
+footer{
+	background-color: lightblue;
+	margin: 0 auto;
+	
+
+}
